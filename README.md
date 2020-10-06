@@ -12,3 +12,6 @@ I also do like games like **Geometry Dash** and **osu!**
 - [Galaxies](https://dsc.gg/galaxies-bot-invite)
 - [Mega](https://bit.ly/31jHDNu)
 - And some more but I don't remember them or they're all dead
+## Things I'm good at
+- Being a useless and stupid soul
+- Nothing more, just that ^
