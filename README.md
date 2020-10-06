@@ -11,6 +11,7 @@ I also do like games like **Geometry Dash** and **osu!**
 ## Discord bots
 - [Galaxies](https://dsc.gg/galaxies-bot-invite)
 - [Mega](https://bit.ly/31jHDNu)
+- [Plus+](https://discord.com/api/oauth2/authorize?client_id=736576975627354202&permissions=8&scope=bot) (old, dead bot and it is always offline)
 - And some more but I don't remember them or they're all dead
 ## Things I'm good at
 - Being a useless and stupid soul
