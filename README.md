@@ -18,6 +18,7 @@ I also do like games like **Geometry Dash** and **osu!**
 - [ABTS Website](https://bot-creations.github.io)
 ## Stuff I might make soon
 - A bot made with discord.py
+- A bot list
 - A leak of the [db-script](https://www.db-script.xyz) source code
 ## Things I'm good at
 - Being a useless and stupid soul
