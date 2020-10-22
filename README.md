@@ -24,4 +24,4 @@ I also do like games like **Geometry Dash** and **osu!**
 - A leak of the [db-script](https://www.db-script.xyz) source code
 ## Things I'm good at
 - Being a useless and stupid soul
-- Nothing more, just that ^
+- Making extremely dumb mistakes
