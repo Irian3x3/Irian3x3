@@ -2,7 +2,7 @@
 I'm a developer who makes **Discord Bots** in **JavaScript** and also makes websites.  
 I also do like games like **Geometry Dash** and **osu!**
 ## Languages (Coding)
-- JavaScript & Typescript
+- JavaScript & [Typescript](https://www.typescriptlang.org)
 - HTML & CSS (Not exactly *coding* languages but idc)
 ## Languages (not coding)
 - English
