@@ -19,9 +19,9 @@ I also do like games like **Geometry Dash** and **osu!**
 - My [Bot Template](../../../bot-template)
 - A [fake virus](../../../fake-virus)
 ## Stuff I might make soon
-- A bot made with discord.py
-- A bot list
-- A leak of the [db-script](https://www.db-script.xyz) source code
+- [x] Done ~~A bot made with discord.py~~
+- [x] Done ~~A bot list~~
+- [x] [Done](../../../../Irian3x3/db-script-leaked) ~~A leak of the [db-script](https://www.db-script.xyz) source code~~
 ## Things I'm good at
 - Being a useless and stupid soul
 - Making extremely dumb mistakes
