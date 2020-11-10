@@ -4,6 +4,7 @@ I also do like games like **Geometry Dash** and **osu!**
 ## Languages (Coding)
 - JavaScript & [Typescript](https://www.typescriptlang.org)
 - HTML & CSS (Not exactly *coding* languages but idc)
+- Some Java
 ## Languages (not coding)
 - English
 - Spanish
