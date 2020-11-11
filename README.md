@@ -28,7 +28,6 @@ I also do like games like **Geometry Dash** and **osu!**
 ## Things I'm good at
 - Being a useless and stupid soul
 - Making extremely dumb mistakes
-- ~~Being rude~~
 ## Things I'm bad at
 - Math
 - Life
