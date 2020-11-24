@@ -12,10 +12,12 @@ I also do like games like **Geometry Dash** and **osu!**
 - English
 - Spanish
 ## Discord bots
-- [Galaxies](https://discord.com/api/oauth2/authorize?client_id=754403987100270682&permissions=470150358&scope=bot "A multi-purpose moderation bot!")
+<!--- [Galaxies](https://discord.com/api/oauth2/authorize?client_id=754403987100270682&permissions=470150358&scope=bot "A multi-purpose moderation bot!")-->
+
 - [Mega](https://bit.ly/31jHDNu "A multi-purpose bot")
-- [Plus+](https://discord.com/api/oauth2/authorize?client_id=736576975627354202&permissions=8&scope=bot "An old bot which is always offline and just dead") (old, dead bot and it is always offline)
-- [AMPBYSE](../../../../../Irian3x3/AMPBYSE "My first commando bot")
+<!--- [Plus+](https://discord.com/api/oauth2/authorize?client_id=736576975627354202&permissions=8&scope=bot "An old bot which is always offline and just dead") (old, dead bot and it is always offline)
+- [AMPBYSE](../../../../../Irian3x3/AMPBYSE "My first commando bot")-->
+- [Hatsune](../../../hatsune "An anime bot")
 - And some more but I don't remember them or they're all dead
 ## Projects
 - [My website](https://irian3x3.xyz)
