@@ -1,6 +1,13 @@
 <div align="center">
   <h1 align="center">Hi, I'm Irian3x3!</h1>
 </div>
+<center>
+<div align='center'>
+  <a href='https://github.com/anuraghazra/github-readme-stats'>
+    <img src='https://github-readme-stats.vercel.app/api?username=Irian3x3&hide=issues,stars&count_private=true&show_icons=true&theme=dark' alt='Stats' />
+  </a>
+</div>
+  </center>
 
 I'm a developer who makes **Discord Bots** in **JavaScript** and also makes websites.  
 I also do like games like **Geometry Dash** and **osu!**
