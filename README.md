@@ -10,12 +10,9 @@
 </div>
 <br><br>
 
-I'm a developer who makes **Discord Bots** in **JavaScript** and also makes websites.  
-I also do like games like **Geometry Dash** and **osu!**
+I'm a Gamer and Developer. I develop in JS, TS, HTML/CSS, some Python, some Java, and Swift. Gaming: Geometry Dash, Among Us, Fortnite, osu! sometimes
 ## Languages (Coding)
-- JavaScript & [Typescript](https://www.typescriptlang.org)
-- HTML & CSS (Not exactly *coding* languages but idc)
-- Some Java
+- They're listed above
 ## Languages (not coding)
 - English
 - Spanish
