@@ -10,9 +10,14 @@
 </div>
 <br><br>
 
-I'm a Gamer and Developer. I develop in JS, TS, HTML/CSS, some Python, some Java, and Swift. Gaming: Geometry Dash, Among Us, Fortnite, osu! sometimes
+I'm a Gamer and Developer. Games I play include: Geometry Dash, Among Us, Fortnite, osu! sometimes.
 ## Languages (Coding)
-- They're listed above
+- JavaScript & TypeScript;
+- HTML & CSS;
+- PHP;
+- Java & C#;
+- Python;
+- Swift;
 ## Languages (not coding)
 - English
 - Spanish
