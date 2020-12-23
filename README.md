@@ -1,16 +1,21 @@
 <div align="center">
   <h1 align="center">Hi, I'm Irian3x3!</h1>
 <center align="center">
-<div align='center'>
-  <a href='#'>
-    <img src='https://github-readme-stats.vercel.app/api?username=Irian3x3&hide=issues,stars&count_private=true&show_icons=true&theme=dark' alt='Stats' />
-  </a>
-</div>
-  <div align="center">
-    <a href="#">
-      <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Irian3x3&hide=issues,stars&count_private=true&show_icons=true&theme=dark' alt='Stats' />
-    </a>
-  </div>
+  <details>
+      <summary>
+        Statistics
+      </summary>
+    <div align='center'>
+      <a href='#'>
+        <img src='https://github-readme-stats.vercel.app/api?username=Irian3x3&hide=issues,stars&count_private=true&show_icons=true&theme=dark' alt='Stats' />
+      </a>
+    </div>
+    <div align="center">
+      <a href="#">
+        <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Irian3x3&hide=issues,stars&count_private=true&show_icons=true&theme=dark' alt='Stats' />
+      </a>
+    </div>
+    </details>
   </center>
 </div>
 <br><br>
