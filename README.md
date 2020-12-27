@@ -3,7 +3,7 @@
 <center align="center">
   <details>
       <summary>
-        Statistics
+        Stats
       </summary>
     <div align='center'>
       <a href='#'>
