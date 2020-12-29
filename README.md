@@ -37,17 +37,14 @@ I'm a Gamer and Developer. Games I play include: Geometry Dash, Brawl Stars, Amo
 - [AMPBYSE](../../../../../Irian3x3/AMPBYSE "My first commando bot")-->
 
 - [JADB](https://discord.com/oauth2/authorize?client_id=780832955147878401&permissions=-9&scope=bot)
-- [Water](../../../water "An anime bot based on water, made with discord.py and python")
+- [Water](../../../water "A bot based on water, made with discord.py and python")
 - [Mega](https://bit.ly/31jHDNu "A multi-purpose bot")
 - [Hatsune](../../../hatsune "An anime bot")
 - And some more but I don't remember them or they're all dead
 ## Projects
+- [discord-taisaku](https://github.com/discord-taisaku/discord-taisaku)
 - [My website](https://irian3x3.xyz)
 - [ABTS Website](https://bot-creations.github.io)
-- A [Basic Command Handler](https://github.com/Irian3x3/basic-command-handler) I wrote myself
-- My [Bot Template](../../../bot-template)
-- A [fake virus](../../../fake-virus)
-- [DBC](https://discordbot-creation.github.io)
 - JSCord - [NPM](https://npmjs.com/package/javascript-cord) | [Repo](../../../js-cord)
 ## Stuff I might make soon
 - [x] Done ~~A bot made with discord.py~~
