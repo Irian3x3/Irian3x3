@@ -20,7 +20,7 @@
 </div>
 <br><br>
 
-I'm a Gamer and Developer. Games I play include: Geometry Dash, Brawl Stars, Among Us, Fortnite, osu! sometimes.
+~~I'm a gamer and developer~~ i play minecraft
 ## Languages (Coding)
 - JavaScript & TypeScript;
 - HTML & CSS;
