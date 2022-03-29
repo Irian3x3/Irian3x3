@@ -58,7 +58,4 @@
 - Math
 - Life
 -->
-
-## doesnt code anymore, plays hypixel skyblock for a living
-
-probably gonna private all of my repos because the code fucking sucks
+# 
