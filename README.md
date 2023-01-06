@@ -58,4 +58,22 @@
 - Math
 - Life
 -->
-# 
+## - Hello!<br>
+- I am a random person on the internet who makes websites and [Discord](//discord.com) bots sometimes. I mostly code in JavaScript and TypeScript, as demonstrated here -><br><br>
+[![i have never used sass/scss and i have no idea what handlebars is.](https://github-readme-stats.vercel.app/api/top-langs/?username=irian3x3&layout=compact&theme=dracula)](/)
+### Skills
+<div style="display: inline">
+  <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" width="48" height="48">
+  <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" width="48" height="48">
+  <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" width="48" height="48">
+  <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/svelte-colored.svg" alt="Svelte" width="48" height="48">
+</div>
+
+### Learning
+
+<div style="display: inline">
+  <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/kotlin-colored.svg" alt="Kotlin" width="48" height="48"> 
+</div>
+
+#
+[![](https://visitcount.itsvg.in/api?id=irian3x3&label=Profile%20Views&color=0&icon=9&pretty=true)](/)
