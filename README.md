@@ -59,7 +59,7 @@
 - Life
 -->
 ## - Hello!<br>
-- I am a random person on the internet who makes websites and [Discord](//discord.com) bots sometimes. I mostly write JavaScript and Typescript.<br>
+- I am a random person on the internet who makes websites and [Discord](//discord.com) bots sometimes. I mostly write JavaScript and TypeScript.<br>
 <a href="//github-readme-stats.vercel.app/api/top-langs/?username=irian3x3&layout=compact&theme=dracula">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irian3x3&layout=compact&theme=dracula">
 </a>
