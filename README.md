@@ -83,14 +83,13 @@
 
 ### Learning
 
-<div style="display: inline">
+<!--<div style="display: inline">
   <a href="https://kotlinlang.org/">
     <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/kotlin-colored.svg" alt="Kotlin" width="48" height="48">
   </a>
   <a href="//google.com/search?q=c%2B%2B">
     <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/cplusplus-colored.svg" alt="C++" width="48" height="48">
   </a>
-</div>
-
+</div>-->
 #
 [![](https://visitcount.itsvg.in/api?id=irian3x3&label=Profile%20Views&color=0&icon=9&pretty=true)](#)
